@@ -1,0 +1,6 @@
+[submodule "d2ld-frontend"]
+	path = d2ld-frontend
+	url = https://github.com/dtchitt/d2ld-frontend
+[submodule "d2ld-backend"]
+	path = d2ld-backend
+	url = https://github.com/dtchitt/d2ld-backend
